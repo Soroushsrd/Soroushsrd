@@ -1,8 +1,7 @@
-### Hi there 👋
+###About ME!
 
 
-**⚡ AI & ML Engineering ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+⚡ AI & ML Engineering 
 
 - 
 - 🔧 Skilled in Python and SQL, enabling versatile AI development across platforms.
