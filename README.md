@@ -1,5 +1,6 @@
 ## About Me
 ⚡ AI & ML Engineering 
+
  I'm Soroosh, a passionate AI developer and enthusiast, specializing in the creation and deployment of AI agents. I'm also in the business of automating everything i feel too lazy to actually do!
 
 🔧 Skilled in Python and SQL, enabling versatile AI development across platforms.
