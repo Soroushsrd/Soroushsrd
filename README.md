@@ -10,4 +10,9 @@
 👨‍💻 Mostly working on whatever interests me the most; so if you have any unique indeas, Hit Me UP!
 
 📫 How to reach me: Mostly active on twitter!
-  
+
+![](https://raw.githubusercontent.com/Soroushsrd/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Soroushsrd/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Soroushsrd/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Soroushsrd/github-stats/master/generated/languages.svg#gh-light-mode-only)
