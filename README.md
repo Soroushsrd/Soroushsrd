@@ -11,6 +11,6 @@
 
 📫 How to reach me: Mostly active on twitter!
 
-![](https://raw.githubusercontent.com/Soroushsrd/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Soroushsrd/MyStats/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/Soroushsrd/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Soroushsrd/MyStats/master/generated/languages.svg#gh-dark-mode-only)
