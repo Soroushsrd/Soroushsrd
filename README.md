@@ -9,12 +9,11 @@ I have built:
 * **Compilers** ([Catalyst](https://github.com/Soroushsrd/Catalyst) - C Language Compiler - **Rust**)
 * **Network Analysis Tools** ([RSniffer](https://github.com/Soroushsrd/RSniffer) - Real-Time Packet Analyzer with [eBPF variant](https://github.com/Soroushsrd/RSniffer/tree/main/eBPF%20format) - **Rust**)
 * **P2P Systems** ([Torrs](https://github.com/Soroushsrd/Torrs) - BitTorrent Client - **Rust**)
-* **High-Frequency Trading Systems** ([ArbiSearch](https://github.com/Soroushsrd/ArbiSearch) - MEV-Searcher Bot - **Rust/Solidity**)
+* **MEV searcher with flashloan integration** ([ArbiSearch](https://github.com/Soroushsrd/ArbiSearch) - MEV-Searcher Bot - **Rust/Solidity**)
 * **Color Schemes** ([Glacier.vim](https://github.com/Soroushsrd/glacier.vim) - Dark colorscheme for Vim/Neovim - **VimScript**)
 * **Blockchain Infrastructure** (MEV searcher with flashloan integration)
-* **Financial Trading Engines** (QuickFix engine handling 5000+ msgs/sec - **Rust**)
-* **Gateway Plugins** (MetaTrader integration with 200μs latency - **C++**)
-* **AI-Powered Legal Tech** (Document analysis platform - **Rust + Next.js**)
+* **Financial Trading Engines** (**Rust/C++**)
+* **AI-Powered WebApps** (**Rust/Go**)
 
 ## What I'm up to:
 
