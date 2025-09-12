@@ -11,7 +11,6 @@ I have built:
 * **P2P Systems** ([Torrs](https://github.com/Soroushsrd/Torrs) - BitTorrent Client - **Rust**)
 * **MEV searcher with flashloan integration** ([ArbiSearch](https://github.com/Soroushsrd/ArbiSearch) - MEV-Searcher Bot - **Rust/Solidity**)
 * **Color Schemes** ([Glacier.vim](https://github.com/Soroushsrd/glacier.vim) - Dark colorscheme for Vim/Neovim - **VimScript**)
-* **Blockchain Infrastructure** (MEV searcher with flashloan integration)
 * **Financial Trading Engines** (**Rust/C++**)
 * **AI-Powered WebApps** (**Rust/Go**)
 
