@@ -5,7 +5,7 @@ I'm **Soroosh**, a systems programming enthusiast who's passionate about buildin
 I have built:
 
 * **Operating Systems** ([CelestOS](https://github.com/Soroushsrd/CelestOS) - Rust-based OS Kernel - **Rust**)
-* **Computer Emulators** ([Chipotle](https://github.com/Soroushsrd/Chipotle) & [Nesolation][https://github.com/Soroushsrd/Nesolation]- CHIP-8 & Nes Emulator - **C++**)
+* **Computer Emulators** ([Chipotle](https://github.com/Soroushsrd/Chipotle) & [Nesolation](https://github.com/Soroushsrd/Nesolation)- CHIP-8 & Nes Emulator - **C++**)
 * **Compilers** ([Catalyst](https://github.com/Soroushsrd/Catalyst) - C Language Compiler - **Rust**)
 * **Network Analysis Tools** ([RSniffer](https://github.com/Soroushsrd/RSniffer) - Real-Time Packet Analyzer with [eBPF variant](https://github.com/Soroushsrd/RSniffer/tree/main/eBPF%20format) - **Rust**)
 * **P2P Systems** ([Torrs](https://github.com/Soroushsrd/Torrs) - BitTorrent Client - **Rust**)
